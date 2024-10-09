@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying at my 2nd Year undergrad from Institute of Engineering and Management**
+ 🔭 I’m currently at my 2nd Year undergrad from Institute of Engineering and Management**
  
  🌱 I’m currently engaged in  **Java, C, DSA , WebDevelopment**
 
@@ -42,10 +42,9 @@
 <br/>
 <hr/>
 
-Excited to collaborate with other developers on awesome new and innovative projects.
+**Excited to collaborate with other developers on awesome new and innovative projects.**
 
 
-<br/><br/>
 
 <hr/>
 
