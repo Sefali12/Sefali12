@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently studying at **College**
+ 🔭 I’m currently studying at my 2nd Year undergrad from Institute of Engineering and Management**
  
  🌱 I’m currently engaged in  **Java, C, DSA , WebDevelopment**
 
@@ -49,10 +49,3 @@ Excited to collaborate with other developers on awesome new and innovative proje
 
 <hr/>
 
-<br/>
-
-<div align="center">
-<a href='https://blinkit.com/' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Wanna buy something  at ko-fi.com' /></a>
-</div>
-
-<br/>
