@@ -1,3 +1,6 @@
+[![An image of @sefali12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sefali12)](https://holopin.io/@sefali12)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hans-rv.sefali12" />
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sefali12.sefali12" />
 
 <h1 align="center">
@@ -43,6 +46,16 @@
 <hr/>
 
 **Excited to collaborate with other developers on awesome new and innovative projects.**
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
 
 
 
