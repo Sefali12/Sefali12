@@ -1,5 +1,4 @@
 [![An image of @sefali12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sefali12)](https://holopin.io/@sefali12)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hans-rv.sefali12" />
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sefali12.sefali12" />
 
