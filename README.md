@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently at my 2nd Year undergrad from Institute of Engineering and Management**
+ 🔭 I’m currently at my 3rd Year undergrad from Institute of Engineering and Management**
  
  🌱 I’m currently engaged in  **Java, C, DSA , WebDevelopment**
 
