@@ -1,78 +1,95 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sefali12.sefali12" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sefali+Gupta!;" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&pause=1000&color=9D4EDD&center=true&vCenter=true&width=550&lines=Hello%2C+I'm+Sefali+Gupta;I+build+things+for+the+web;Code+%7C+Create+%7C+Explore" 
+  />
 </h1>
 
-<h3 align="center">A passionate software engineering student from India </h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a0033,100:6a00ff&height=2&section=header" />
+</p>
+
+<h3 align="center">
+  Software Engineering Student • Builder • Open-Source Contributor
+</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently at my 3rd Year undergrad from Institute of Engineering and Management**
- 
- 🌱 I’m currently engaged in  **Java, C, DSA , WebDevelopment**
 
-💬 We can communicate anything about tech or anything [here](https://github.com/sefali12/sefali12/issues)**
+I enjoy turning ideas into real, usable products.  
+Focused on **clean code, scalable systems, and meaningful tech**.
 
- </div>
- 
+Currently exploring **DSA, Web Platforms, AI systems, and Web3**.
+
+</div>
+
+<br/>
+
 <div align="center"> 
-  <a href="sefaligupta99@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:sefaligupta99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=bb86fc" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/sefaligupta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=bb86fc" />
   </a>
-  <a href="https://sefali12.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://sefali-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=vercel&logoColor=bb86fc" />
   </a>
-</div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,discord,figma,git" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,java,matlab,mysql" />
+  <a href="https://x.com/sefaligupta99" target="_blank">
+    <img src="https://img.shields.io/badge/X-0d0d0d?style=for-the-badge&logo=x&logoColor=bb86fc" />
+  </a>
 </div>
 
 <br/>
-<hr/>
+<br/>
 
-**Excited to collaborate with other developers on awesome new and innovative projects.**
+<h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-
-  <br/><br/><br/>
+  <img src="https://skillicons.dev/icons?theme=dark&i=java,python,c,javascript,html,css,react,tailwind" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?theme=dark&i=git,github,postman,matlab,arduino,cloudflare" />
 </div>
 
-<hr/>
+<br/>
+<br/>
 
 
-  [![An image of @sefali12's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sefali12)](https://holopin.io/@sefali12)
+<h2 align="center">🧩 What I Work On</h2>
 
-  ## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/8.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+<div align="center">
+
+• Writing efficient and readable code  
+• Solving algorithmic problems  
+• Building interactive web interfaces  
+• Experimenting with AI-driven systems  
+• Contributing to open-source communities  
+
 </div>
 
+<br/>
+<br/>
 
-  
-  
+<h2 align="center">🎖 Open Source & Badges</h2>
+
+<div align="center">
+  <a href="https://holopin.io/@sefali12">
+    <img src="https://holopin.me/sefali12" />
+  </a>
+</div>
+
+<br/>
+<br/>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a00ff,100:1a0033&height=120&section=footer" />
+</p>
+
+<div align="center">
+
+✨ Always curious. Always building.  
+🤝 Open to collaboration and meaningful conversations.
+
+</div>
