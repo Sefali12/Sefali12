@@ -48,10 +48,9 @@ Currently exploring **DSA, Web Platforms, AI systems, and Web3**.
 <h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?theme=dark&i=java,python,c,javascript,html,css,react,tailwind" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?theme=dark&i=git,github,postman,matlab,arduino,cloudflare" />
+  <img src="https://skillicons.dev/icons?theme=dark&i=java,python,c,javascript,html,css,tailwind,react,nextjs,opencv,solidity,cloudflare,nginx,linux,git,github,vercel,postman,matlab,arduino,vscode,idea,discord" />
 </div>
+
 
 <br/>
 <br/>
