@@ -59,13 +59,12 @@ Currently exploring **DSA, Web Platforms, AI systems, and Web3**.
 <h2 align="center">🧩 What I Work On</h2>
 
 <div align="center">
-
-• Writing efficient and readable code  
-• Solving algorithmic problems  
-• Building interactive web interfaces  
-• Experimenting with AI-driven systems  
-• Contributing to open-source communities  
-
+  
+• Writing clean, efficient, and maintainable code
+• Solving complex algorithmic and problem-solving challenges
+• Building responsive and interactive web applications
+• Exploring and experimenting with AI-driven systems
+• Contributing to and collaborating on open-source projects
 </div>
 
 <br/>
